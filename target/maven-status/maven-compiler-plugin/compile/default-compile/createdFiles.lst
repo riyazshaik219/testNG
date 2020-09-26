@@ -1,0 +1,6 @@
+com\qa\annotations\testNG_annotations.class
+com\qa\invocationcount\testNG_invocationCount.class
+com\qa\Parameters\testNG_Parameters.class
+com\qa\DataProvider\testNG_dataProvider.class
+com\qa\DataProvider\datathroughExcel.class
+com\qa\testNGFeatures\testNG_Features.class
